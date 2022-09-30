@@ -1,1 +1,2 @@
-Working as an integration developer at logz.io. In my role, I'm working with popular open-source technologies: ELK, Kubernetes, Prometheus, Opentelemetry, Docker, and many more. Building open-source software to help engineers migrate their monitoring infostructure to Logz.io's platform.
+Working as an integration developer at logz.io. In my role, I'm working with open-source technologies: Opentelemetry, Prometheus, Kubernetes, Open Search, Docker, and many more. Building open-source software to help engineers monitor their production environment and get real value out of the data.
+Go, Python, Nodejs
